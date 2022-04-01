@@ -81,7 +81,7 @@ Page({
         }).then(resp => {
           this.getRecord()
           wx.showToast({
-            title: '完成任务',
+            title: '宝贝真棒',
             icon: 'success',
             duration: 2000
           })
