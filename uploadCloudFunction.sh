@@ -1,1 +1,1 @@
-"/Applications/wechatwebdevtools.app/Contents/MacOS/cli" cloud functions deploy --e cloud1-6gg3z3igf03960f1 --n quickstartFunctions --r --project "/Users/lichenming/WeChatProjects/miniprogram-2" --report_first --report
+"/Applications/wechatwebdevtools.app/Contents/MacOS/cli" cloud functions deploy --e myxcx-6g2yvhsj69444722 --n quickstartFunctions --r --project "/Users/cwh/Documents/xcx/Duck-Princess-Cultivation-Plan" --report_first --report
