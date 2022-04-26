@@ -39,7 +39,7 @@ Page({
     wx.showLoading({
       title: '',
     });
-   wx.cloud.callFunction({
+    wx.cloud.callFunction({
       name: 'quickstartFunctions',
       config: {
         env: this.data.envId
